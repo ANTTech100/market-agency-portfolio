@@ -66,11 +66,9 @@ export default function HomePage() {
                   🏆 Governor of Karnataka Award Winner 2022-23
                 </div>
                 <h1 className="text-5xl lg:text-7xl font-bold leading-tight">
-                  Dr. Amit 
+                  Dr. Amit Nath
                   <br />
-                  <span className="bg-gradient-to-r from-black to-gray-600 bg-clip-text text-transparent">
-                    Nath
-                  </span>
+                 
                 </h1>
                 <div className="space-y-2 text-xl lg:text-2xl text-gray-700">
                   <p>Business Strategist • TEDx Speaker</p>
