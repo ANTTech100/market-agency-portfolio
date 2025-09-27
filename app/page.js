@@ -2,7 +2,9 @@
 
 import { useState, useEffect } from 'react';
 import { ChevronDown, Award, BookOpen, Users, TrendingUp, Globe, Quote, ArrowRight } from 'lucide-react';
-import FeaturedPage from './Featured';
+// import FeaturedPage from './Featured';
+import TestimonialsPage from './Testimonial';
+import MediaCoverageDisplay from './Featured';
 
 export default function HomePage() {
   const [isScrolled, setIsScrolled] = useState(false);
@@ -214,7 +216,8 @@ export default function HomePage() {
         </div>
       </section>
 
-      <FeaturedPage />
+      <MediaCoverageDisplay></MediaCoverageDisplay>
+      <TestimonialsPage></TestimonialsPage>
 
       {/* Ventures Section */}
       <section id="ventures" className="py-20 bg-white">
