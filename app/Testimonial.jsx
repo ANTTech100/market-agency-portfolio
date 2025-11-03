@@ -259,18 +259,7 @@ const TestimonialsPage = () => {
         </div>
       </div>
 
-      {/* Call to Action */}
-      <div className="bg-black text-white py-16">
-        <div className="max-w-4xl mx-auto text-center px-4">
-          <h2 className="text-3xl font-bold mb-4">Ready to Transform Your Business?</h2>
-          <p className="text-xl mb-8 text-gray-300">
-            Join hundreds of satisfied clients who have experienced remarkable growth and success
-          </p>
-          <button className="bg-white text-black px-8 py-3 rounded-lg font-bold text-lg hover:bg-gray-100 transition-colors duration-300">
-            Get Started Today
-          </button>
-        </div>
-      </div>
+  
 
   
     </div>
